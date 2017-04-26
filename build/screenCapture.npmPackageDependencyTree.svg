@@ -1,0 +1,45 @@
+<svg height="670" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="670" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">27 megabytes installed</tspan>
+<tspan x="10" y="42"></tspan>
+<tspan x="10" y="58">node_modules</tspan>
+<tspan x="10" y="74">└─┬ postcss-smart-import@0.6.12 </tspan>
+<tspan x="10" y="90">  ├─┬ babel-runtime@6.23.0 </tspan>
+<tspan x="10" y="106">  │ ├── core-js@2.4.1 </tspan>
+<tspan x="10" y="122">  │ └── regenerator-runtime@0.10.3 </tspan>
+<tspan x="10" y="138">  ├── lodash@4.17.4 </tspan>
+<tspan x="10" y="154">  ├── object-assign@4.1.1 </tspan>
+<tspan x="10" y="170">  ├─┬ postcss@5.2.17 </tspan>
+<tspan x="10" y="186">  │ ├─┬ chalk@1.1.3 </tspan>
+<tspan x="10" y="202">  │ │ ├── ansi-styles@2.2.1 </tspan>
+<tspan x="10" y="218">  │ │ ├── escape-string-regexp@1.0.5 </tspan>
+<tspan x="10" y="234">  │ │ ├─┬ has-ansi@2.0.0 </tspan>
+<tspan x="10" y="250">  │ │ │ └── ansi-regex@2.1.1 </tspan>
+<tspan x="10" y="266">  │ │ ├── strip-ansi@3.0.1 </tspan>
+<tspan x="10" y="282">  │ │ └── supports-color@2.0.0 </tspan>
+<tspan x="10" y="298">  │ ├── js-base64@2.1.9 </tspan>
+<tspan x="10" y="314">  │ ├── source-map@0.5.6 </tspan>
+<tspan x="10" y="330">  │ └─┬ supports-color@3.2.3 </tspan>
+<tspan x="10" y="346">  │   └── has-flag@1.0.0 </tspan>
+<tspan x="10" y="362">  ├─┬ postcss-sass@0.1.0 </tspan>
+<tspan x="10" y="378">  │ ├─┬ gonzales-pe@4.0.3 </tspan>
+<tspan x="10" y="394">  │ │ └── minimist@1.1.3 </tspan>
+<tspan x="10" y="410">  │ └─┬ mathjs@3.12.1 </tspan>
+<tspan x="10" y="426">  │   ├── complex.js@2.0.1 </tspan>
+<tspan x="10" y="442">  │   ├── decimal.js@7.1.1 </tspan>
+<tspan x="10" y="458">  │   ├── fraction.js@4.0.0 </tspan>
+<tspan x="10" y="474">  │   ├── seed-random@2.2.0 </tspan>
+<tspan x="10" y="490">  │   ├── tiny-emitter@1.0.2 </tspan>
+<tspan x="10" y="506">  │   └── typed-function@0.10.5 </tspan>
+<tspan x="10" y="522">  ├── postcss-scss@0.4.1 </tspan>
+<tspan x="10" y="538">  ├── postcss-value-parser@3.3.0 </tspan>
+<tspan x="10" y="554">  ├─┬ promise-each@2.2.0 </tspan>
+<tspan x="10" y="570">  │ └── any-promise@0.1.0 </tspan>
+<tspan x="10" y="586">  ├─┬ read-cache@1.0.0 </tspan>
+<tspan x="10" y="602">  │ └── pify@2.3.0 </tspan>
+<tspan x="10" y="618">  ├─┬ resolve@1.3.3 </tspan>
+<tspan x="10" y="634">  │ └── path-parse@1.0.5 </tspan>
+<tspan x="10" y="650">  └── sugarss@0.2.0</tspan>
+</text>
+</svg>
